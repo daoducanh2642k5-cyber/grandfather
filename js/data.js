@@ -1,0 +1,1593 @@
+// Dữ liệu kỷ niệm gia đình - Đào Huy Việt (1934-2010)
+window.MEMORIAL_DATA = [
+  {
+    "id": "P1",
+    "title": "Thời Tuổi Trẻ & 34 Năm Công Tác (1934 – 1988)",
+    "slides": [
+      {
+        "slide_num": 3,
+        "texts": [
+          "Thời tuổi trẻ"
+        ],
+        "images": [
+          "P1_s03_image3.png"
+        ]
+      },
+      {
+        "slide_num": 4,
+        "texts": [
+          "GIA THẾ",
+          "Ba Đào Huy Việt, sinh ngày 08 tháng 7 năm 1934, tại Triệu Việt Vương, Hà Nội; sống cùng gia đình tại làng Thể Giao, nay là phố Thể Giao,  Phường Lê Đại Hành, Quận Hai Bà Trung, Hà Nội.  Ba là con thứ hai trong một gia đình có 8 người con.",
+          "Người sinh ra Ba là Ông nội Đào Đình Hướng (sinh năm 1902) và Bà nội Lương Thị Thìn. (sinh năm 1914)",
+          "Ông nội có nghề cơ khí. Ông đã cùng với 2 người bạn mở xường Hợp  Hưng ở phố Nguyễn Thiếp, Hà Nội., chuyên về đúc và tiện., sửa chữa máy,.",
+          "Bà nội là con út của Cụ đồ Lương Thế Dị (dòng dõi của cụ Lương Thế Vinh). Bà nội rất giỏi thêu thùa, đan lát."
+        ],
+        "images": [
+          "P1_s04_image4.jpg",
+          "P1_s04_image5.jpg"
+        ]
+      },
+      {
+        "slide_num": 5,
+        "texts": [
+          "GIA THẾ",
+          "Theo giấy khai sinh do chính quyền sở tại cấp ngày 27 tháng 12 năm 1934, Ba sinh ngày 08 tháng 7 năm 1934.",
+          "Trước những năm 40, gia đình ông bà nội sống ở làng Thể Giao, sau đó chuyển về phố Nam Ngư. Đây là một biệt thự cổ với ngôi nhà kiểu Pháp. Ông bà nội ở đây cho đến năm 1954 thì đi Nam.",
+          "Theo lá số tử vi Ông bà nội lập cho Ba, thì Ba sinh năm Giáp Tuất, tháng 6 ngày 28, giờ Tý,  (dương lịch là năm 1934), được phán rằng “thông minh có học có tài nhưng thi cử đỗ đạt thì “khó”."
+        ],
+        "images": [
+          "P1_s05_image6.png",
+          "P1_s05_image7.png"
+        ]
+      },
+      {
+        "slide_num": 6,
+        "texts": [
+          "GIA THẾ",
+          "Họ Đào theo chi của Ông nội có tên đệm là “Đình”. Nhưng tên của Ba lại được đệm là “Huy”. Ba kể rằng Ông nội đặt tên đệm cho Ba là  “Huy” vì mong rằng sau này Ba sẽ làm được việc lớn, sẽ “chỉ huy” mọi người.  Ba là người con thứ hai trong gia đình nhưng là con trai đầu (con trưởng) của Ông Bà nội",
+          "Là con trai lớn trong một gia đình đông con (đến năm 1954, Ông Bà nội đã có 6 người con, mất một chú, còn 5), lại sinh ra trong thời gian khó, nên Ba phải bỏ học từ rất sớm để cùng Ông nội đi làm kiếm tiền nuôi gia đình. Ba đã học nghề đúc, tiện và bắt đầu lao động từ những năm tuổi vị thành niên.",
+          "Ảnh chụp năm 1947, khi đó Ba 13 tuổi và đã học nghề đúc và tiện."
+        ],
+        "images": [
+          "P1_s06_image8.jpg"
+        ]
+      },
+      {
+        "slide_num": 7,
+        "texts": [
+          "GIA THẾ",
+          "Năm 1949, Ông nội hùn vốn với ông Nguyễn Văn Nhân và ông Bùi Đức Lâm  thành lập công ty Hợp Danh mở một Xưởng chữa máy có công cụ dùng để sửa chữa các thứ máy lấy tên HỢP – HƯNG (Ateliers de Reparations Mecaniques), tại TONKIN 42, Rue Duranton  –HANOI, tức là số nhà 42 phố Nguyễn Thiệp, Hà Nội ngày nay.",
+          "Ba làm việc trong xưởng này cho đến khi Chính phủ Việt Nam Dân chủ Cộng hòa tiến hành công tư hợp doanh (tích thu tài sản của tư nhân) năm 1956,",
+          "Hình bên là bản hợp đồng được viết bằng tay và có chữ ký của ba người hùn vốn lập xưởng. Đây là bản lưu."
+        ],
+        "images": [
+          "P1_s07_image9.jpg"
+        ]
+      },
+      {
+        "slide_num": 8,
+        "texts": [
+          "GIA THẾ",
+          "Cuối năm 1954, Ông Bà đưa ba cô chú đi Nam. Bác Hưởng và Ba ở lại Hà Nội.",
+          "Ảnh này được chụp vào năm 1954. Lúc đó Ông Bà nội có 5 người con, Cô Bình mới sinh được Bà bế. Đây là bức ảnh cuối cùng trước khi gia đình phân ly."
+        ],
+        "images": [
+          "P1_s08_image10.jpg"
+        ]
+      },
+      {
+        "slide_num": 9,
+        "texts": [
+          "GIA THẾ",
+          "Không rõ vì sao gia đình Ba “kẻ ở - người đi”. Nhưng thời gian đó, không riêng gì gia đình Ba, mà rất nhiều gia đình ở Hà Nội cũng phân ly theo kiểu đó.  Có một lý giải rằng khi đó theo hiệp định Geneva thì hai năm sau sẽ tổng tuyển cử trên toàn quốc, mà chế độ ở hai miền khác nhau nên các gia đình chia đôi để nếu bên nào thắng cử lãnh đạo đất nước thì còn có người “bảo lãnh”.",
+          "Một năm sau khi xa cha mẹ và các em, Ba đã viết vào mặt sau của tấm ảnh chụp gia đình năm 1954 dòng chữ: ‘’Xuân Ất Mùi, Kỷ niệm một trưa đông tại Hà Thành thân mến. Hà Nội ngày 20.12.55. Ngày từ biệt gia đình buồn tê tái. Hòa bình trở lại. Tôi càng cảm thấy buồn. Hôm nay hết chiến tranh rồi là ngày tôi lại xa người thân yêu ”",
+          "Sự chia cắt gia đình đã để lại cho Ba nỗi buồn sâu sắc, kéo dài trong nhiều năm sau này. Hàng năm, mỗi dịp Tết đến xuân về, Ba thường rất buồn. Đêm giao thừa là thời gian Ba buồn nhất, Ba thường im lặng, nằm quay mặt vào tường."
+        ],
+        "images": [
+          "P1_s09_image11.jpg"
+        ]
+      },
+      {
+        "slide_num": 10,
+        "texts": [
+          "GIA THẾ",
+          "Tấm ảnh này được chụp cùng thời gian với tấm ảnh toàn gia đình năm 1954. (từ phải qua trái: Ba, chú Đạo, bác Hưởng, cô Hạnh).",
+          "Lúc này bác Hưởng 22 tuổi, Ba 20 tuổi, chú Đạo 17 tuổi, cô Hạnh 15 tuổi."
+        ],
+        "images": [
+          "P1_s10_image12.jpg"
+        ]
+      },
+      {
+        "slide_num": 11,
+        "texts": [
+          "34 năm công tác"
+        ],
+        "images": [
+          "P1_s11_image13.jpg"
+        ]
+      },
+      {
+        "slide_num": 12,
+        "texts": [
+          "1946-1967",
+          "1946-1947: Học nghề đúc và làm thợ phụ",
+          "1948-1954:  Công nhân đúc ở xưởng Hợp – Hưng",
+          "1955-1967: Công nhân đúc, tiện tại xưởng Đại tu Ô tô tháng 10,, Sở Giao thông Vận tải Hà Nội",
+          "Sổ lao động này được lâp năm 1962."
+        ],
+        "images": [
+          "P1_s12_image14.png"
+        ]
+      },
+      {
+        "slide_num": 13,
+        "texts": [
+          "Ghi nhận kết quả công tác giai đoạn 1955-1962"
+        ],
+        "images": [
+          "P1_s13_image15.png",
+          "P1_s13_image16.png"
+        ]
+      },
+      {
+        "slide_num": 14,
+        "texts": [
+          "1968-1988",
+          "Tháng 1/1968: Ba phục vụ Quân đội, là Công nhân Quốc phòng",
+          "01/1968-4/1972: Công nhân đúc tại A179, Tổng cục Kỹ thuật, Bộ Quốc phòng",
+          "05/1972-02/1986: Quản lý xưởng chế thử, Phòng Công nghệ, Phân viện thiết kế Cục Quản lý xe, Viện Kỹ thuật cơ giới, Bộ Quốc phòng.",
+          "1986-1988: Được nghỉ theo chế độ của quân đội (hưởng nguyên lương nhưng chưa nghỉ hưu)."
+        ],
+        "images": [
+          "P1_s14_image17.png"
+        ]
+      },
+      {
+        "slide_num": 15,
+        "texts": [
+          "Chuyên môn",
+          "Ngày 10 tháng 5 năm 1978, Tổng cục Kỹ thuật ra Quyết định 158/QĐ-KT nâng bậc lương cho Ba lên bậc 7/7 – bậc cao nhất của ngạch bậc công nhân.",
+          "Ngày 04 tháng 4 năm 1983,  Bộ Tham mưu Tổng cục Kỹ thuật, Bộ Quốc phòng ra Quyết định số 193/QĐ-TM về việc nâng bậc và điểu chỉnh lương cho đồng chí Đào Huy Việt, nhập ngũ năm 1968 từ bậc 7/7 cơ khí lên bậc 6/6 kỹ thuật."
+        ],
+        "images": [
+          "P1_s15_image18.png",
+          "P1_s15_image19.png"
+        ]
+      },
+      {
+        "slide_num": 16,
+        "texts": [
+          "Lý lịch",
+          "."
+        ],
+        "images": [
+          "P1_s16_image20.png"
+        ]
+      },
+      {
+        "slide_num": 17,
+        "texts": [
+          "Quyết định nghỉ chế độ",
+          "Quyết đinh được hưởng chế độ hưu trí  từ ngày 01/01/1989, với thời gian làm việc là 34 năm 3 tháng kể từ ngày tham gia cách mạng (làm việc cho nhà nước) từ tháng 10 năm 1954)."
+        ],
+        "images": [
+          "P1_s17_image21.jpg"
+        ]
+      },
+      {
+        "slide_num": 18,
+        "texts": [
+          "Khen thưởng",
+          "Trong thời gian công tác, Ba nhận được rất nhiều giấy khen, được thưởng huy hiệu Tổng tiến công 1968, huy hiệu toàn tháng 1975,... cho những đóng góp của mình vào công việc chung của đơn vị."
+        ],
+        "images": [
+          "P1_s18_image22.png",
+          "P1_s18_image23.png"
+        ]
+      },
+      {
+        "slide_num": 19,
+        "texts": [
+          "Học vấn",
+          "Ba vừa đi làm vừa đi học và đã lấy được bằng bổ túc cấp 2."
+        ],
+        "images": [
+          "P1_s19_image24.png"
+        ]
+      },
+      {
+        "slide_num": 20,
+        "texts": [
+          "Những tấm thẻ cuộc đời",
+          "Thẻ hưu trí",
+          "Bằng lái xe",
+          "Giấy chứng minh nhân dân",
+          "Bảo hiểm y tế"
+        ],
+        "images": [
+          "P1_s20_image25.png",
+          "P1_s20_image26.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2",
+    "title": "Lập Gia Đình & Xây Đắp Mái Ấm (1955 – 2001)",
+    "slides": [
+      {
+        "slide_num": 1,
+        "texts": [
+          "Lập gia đình"
+        ],
+        "images": [
+          "P2_s01_image2.jpg"
+        ]
+      },
+      {
+        "slide_num": 2,
+        "texts": [
+          "Tìm hiểu",
+          "Có lẽ Ba đã yêu Mẹ (bà Nguyễn Thị Hợp) từ đầu những năm 50. Khi Ông nội mở xưởng Hợp- Hưng ở phố Nguyễn Thiệp, cách xưởng của Ông ngoại một nhà. Theo lời kể, Ông nội và Ông ngoại chơi thân với nhau. Ông nội thường sang nhà và xưởng của Ông ngoại nói chuyện, uống trà.",
+          "Tấm ảnh này Mẹ chụp cho Ba trong một lần đi chơi ở vườn hoa Canh Nông, nay là vườn hoa Lê Nin trước cột cờ Hà Nội).  Đẳng sau ảnh Ba viết: “Hợp người em mến, đã bấm cho tôi chiếc ảnh này. Thú thật với em tôi không ngờ lại yêu em thiết tha và có ý định lấy em. Tôi nguyện sẽ yêu em mãi. Ngày 4/8/55”."
+        ],
+        "images": [
+          "P2_s02_image3.jpg",
+          "P2_s02_image4.jpg"
+        ]
+      },
+      {
+        "slide_num": 3,
+        "texts": [
+          "CƯỚI  VỢ",
+          "Ba Mẹ cưới nhau đầu năm 1957.",
+          "Ảnh chụp ở phòng cưới Nguyên Sinh phố Thuốc Bắc, Hà Nội:",
+          "Cô dâu: Nguyễn Thị Hợp",
+          "Chú rể: Đào Huy Việt."
+        ],
+        "images": [
+          "P2_s03_image5.jpg"
+        ]
+      },
+      {
+        "slide_num": 4,
+        "texts": [],
+        "images": [
+          "P2_s04_image6.jpg"
+        ]
+      },
+      {
+        "slide_num": 5,
+        "texts": [
+          "Đón dâu tại nhà của Ông Bà ngoại, số 38, Nguyễn Thiếp, Hà Nội.",
+          "Trước bàn thờ gia tiên nhà Ông Bà ngoại."
+        ],
+        "images": [
+          "P2_s05_image7.jpg",
+          "P2_s05_image8.jpg"
+        ]
+      },
+      {
+        "slide_num": 6,
+        "texts": [
+          "Nhà Gái trao của hồi môn cho cô dâu.",
+          "Nhà gái trao của hồi môn cho cô dâu",
+          "Lễ gia tiên"
+        ],
+        "images": [
+          "P2_s06_image9.jpg",
+          "P2_s06_image10.jpg"
+        ]
+      },
+      {
+        "slide_num": 7,
+        "texts": [
+          "Rước dâu.",
+          "Của số nhà 38 Nguyễn Thiệp của Ông ngoại, bên cạnh là số nhà 36, xưởng sửa chữa ô tô của Ông ngoại.",
+          "Rước dâu từ nhà Ông Bà ngoại, số 38 Nguyễn Thiệp. Bên cạnh là xưởng sửa chữa ô tô của Ông ngoại, 36 Nguyễn Thiệp.",
+          "Cô dâu lên xe ô-tô.",
+          "Phía sao là Xưởng Hợp-Hưng. Cậu bé đội mũ nồi bên trái là anh Bình, con lớn của ông bà Thưởng, nhà ở phía sau Xưởng Hợp–Hưng"
+        ],
+        "images": [
+          "P2_s07_image11.jpg",
+          "P2_s07_image12.jpg"
+        ]
+      },
+      {
+        "slide_num": 8,
+        "texts": [
+          "Ảnh tại phòng cưới"
+        ],
+        "images": [
+          "P2_s08_image13.jpg"
+        ]
+      },
+      {
+        "slide_num": 9,
+        "texts": [
+          "Tiệc trà tại phòng cưới Nguyên Sinh"
+        ],
+        "images": [
+          "P2_s09_image14.jpg",
+          "P2_s09_image15.jpg",
+          "P2_s09_image16.jpg"
+        ]
+      },
+      {
+        "slide_num": 10,
+        "texts": [],
+        "images": [
+          "P2_s10_image17.jpg",
+          "P2_s10_image18.jpg"
+        ]
+      },
+      {
+        "slide_num": 11,
+        "texts": [],
+        "images": [
+          "P2_s11_image19.jpg",
+          "P2_s11_image20.jpg"
+        ]
+      },
+      {
+        "slide_num": 12,
+        "texts": [],
+        "images": [
+          "P2_s12_image21.jpg"
+        ]
+      },
+      {
+        "slide_num": 13,
+        "texts": [
+          "SINH CON",
+          "Các con:",
+          "Đào Thị Khánh Hòa, sinh ngày 14 tháng 11 năm 1957",
+          "Đào Thị Kim Chi, sinh ngày 10 tháng 11 năm 1957",
+          "Đào Đình Khả, sinh ngày 12 tháng 4 năm 1964."
+        ],
+        "images": [
+          "P2_s13_image22.jpg"
+        ]
+      },
+      {
+        "slide_num": 14,
+        "texts": [
+          "Sinh con gái đầu lòng vào ngày 14/11/1957.",
+          "Ảnh chụp lúc Khánh 7 tháng tuổi, năm 1958."
+        ],
+        "images": [
+          "P2_s14_image23.jpg"
+        ]
+      },
+      {
+        "slide_num": 15,
+        "texts": [
+          "Sinh con thứ hai năm 1959. Ảnh chụp năm 1962. Khánh Hòa 5 tuổi, Kim Chi 3 tuổi."
+        ],
+        "images": [
+          "P2_s15_image24.jpg"
+        ]
+      },
+      {
+        "slide_num": 16,
+        "texts": [
+          "Năm 1963"
+        ],
+        "images": [
+          "P2_s16_image25.jpg"
+        ]
+      },
+      {
+        "slide_num": 17,
+        "texts": [
+          "Năm 1963.",
+          "Ảnh chụp cả nhà với dì Hồng và cậu Hùng."
+        ],
+        "images": [
+          "P2_s17_image26.jpg"
+        ]
+      },
+      {
+        "slide_num": 18,
+        "texts": [
+          "Sinh con thứ ba năm 1964. Ảnh chụp lúc Tấn học lớp 4"
+        ],
+        "images": [
+          "P2_s18_image27.png"
+        ]
+      },
+      {
+        "slide_num": 19,
+        "texts": [
+          "Gia đỉnh. Ảnh chụp vào  Tết Bính Thìn,",
+          "1976."
+        ],
+        "images": [
+          "P2_s19_image28.jpg"
+        ]
+      },
+      {
+        "slide_num": 20,
+        "texts": [
+          "ĐOÀN TỤ",
+          "Năm 1976, Ba vào Sài Gòn gặp lại Ông Bà nội, các cô, chú  và các cháu."
+        ],
+        "images": [
+          "P2_s20_image29.jpg",
+          "P2_s20_image30.jpg"
+        ]
+      },
+      {
+        "slide_num": 21,
+        "texts": [],
+        "images": [
+          "P2_s21_image31.jpg"
+        ]
+      },
+      {
+        "slide_num": 22,
+        "texts": [
+          "Tết năm 1982. Tấn chuẩn bị đi Liên Xô.",
+          "Trên tường là chiếc đồng hồ ODO 10 gong- kỷ vật của ba mẹ mua khi cưới nhau. Chiếc đồng hồ này đã bị bom làm rơi, vỡ vỏ bên ngoài, nhưng ba đã thuê làm lại vỏ."
+        ],
+        "images": [
+          "P2_s22_image32.jpg",
+          "P2_s22_image33.jpg"
+        ]
+      },
+      {
+        "slide_num": 23,
+        "texts": [
+          "Tết Quý Hợi, 1983."
+        ],
+        "images": [
+          "P2_s23_image34.jpg",
+          "P2_s23_image35.jpg"
+        ]
+      },
+      {
+        "slide_num": 24,
+        "texts": [
+          "Tết Giáp Tý, 1984."
+        ],
+        "images": [
+          "P2_s24_image36.jpg"
+        ]
+      },
+      {
+        "slide_num": 25,
+        "texts": [
+          "Tết  Năm 1986."
+        ],
+        "images": [
+          "P2_s25_image37.jpg",
+          "P2_s25_image38.jpg"
+        ]
+      },
+      {
+        "slide_num": 26,
+        "texts": [],
+        "images": [
+          "P2_s26_image39.png"
+        ]
+      },
+      {
+        "slide_num": 27,
+        "texts": [],
+        "images": [
+          "P2_s27_image40.png",
+          "P2_s27_image41.png"
+        ]
+      },
+      {
+        "slide_num": 28,
+        "texts": [],
+        "images": [
+          "P2_s28_image42.png",
+          "P2_s28_image43.png"
+        ]
+      },
+      {
+        "slide_num": 29,
+        "texts": [],
+        "images": [
+          "P2_s29_image44.png",
+          "P2_s29_image45.png"
+        ]
+      },
+      {
+        "slide_num": 30,
+        "texts": [
+          "1997"
+        ],
+        "images": [
+          "P2_s30_image46.png"
+        ]
+      },
+      {
+        "slide_num": 31,
+        "texts": [
+          "Có con rể. Ảnh chụp năm 1998."
+        ],
+        "images": [
+          "P2_s31_image47.png",
+          "P2_s31_image48.png"
+        ]
+      },
+      {
+        "slide_num": 32,
+        "texts": [
+          "1998"
+        ],
+        "images": [
+          "P2_s32_image49.png"
+        ]
+      },
+      {
+        "slide_num": 33,
+        "texts": [],
+        "images": [
+          "P2_s33_image50.png",
+          "P2_s33_image51.png"
+        ]
+      },
+      {
+        "slide_num": 34,
+        "texts": [
+          "1999"
+        ],
+        "images": [
+          "P2_s34_image52.png"
+        ]
+      },
+      {
+        "slide_num": 35,
+        "texts": [
+          "2000"
+        ],
+        "images": [
+          "P2_s35_image53.png"
+        ]
+      },
+      {
+        "slide_num": 36,
+        "texts": [
+          "Có con dâu. Ảnh chụp năm Tết 2001"
+        ],
+        "images": [
+          "P2_s36_image54.png"
+        ]
+      },
+      {
+        "slide_num": 37,
+        "texts": [],
+        "images": [
+          "P2_s37_image55.png"
+        ]
+      },
+      {
+        "slide_num": 38,
+        "texts": [],
+        "images": [
+          "P2_s38_image56.png",
+          "P2_s38_image57.png"
+        ]
+      },
+      {
+        "slide_num": 39,
+        "texts": [],
+        "images": [
+          "P2_s39_image58.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P3",
+    "title": "Vui Vầy Bên Con Cháu – Phần 1 (2002 – 2007)",
+    "slides": [
+      {
+        "slide_num": 1,
+        "texts": [
+          "Vui vầy bên Con cháu",
+          "Cháu gái: Nguyễn Thị Kim Ngân (Ngan)",
+          "Cháu gái: Nguyễn Thị Kim Cúc (Miu)",
+          "Cháu gái: Đào Thị Ngọc Trang (Chick)",
+          "Cháu trai: Đào Đức Anh (Bi)"
+        ],
+        "images": [
+          "P3_s01_image2.png"
+        ]
+      },
+      {
+        "slide_num": 2,
+        "texts": [
+          "2002"
+        ],
+        "images": []
+      },
+      {
+        "slide_num": 3,
+        "texts": [
+          "Sinh nhật Ngan",
+          "Năm 2002, hai cháu ngoại về nước ở với ông bà tại nhà 16 Võ Văn Dũng, Đống Đa, Hà Nội."
+        ],
+        "images": [
+          "P3_s03_image4.png"
+        ]
+      },
+      {
+        "slide_num": 4,
+        "texts": [
+          "Sinh nhật Khánh, Chi"
+        ],
+        "images": [
+          "P3_s04_image5.png"
+        ]
+      },
+      {
+        "slide_num": 5,
+        "texts": [
+          "Sinh nhật Miu"
+        ],
+        "images": [
+          "P3_s05_image6.jpg"
+        ]
+      },
+      {
+        "slide_num": 6,
+        "texts": [
+          "2003"
+        ],
+        "images": []
+      },
+      {
+        "slide_num": 7,
+        "texts": [
+          "Năm 2002, có thêm cháu nội Ở Nhật về nước. Ảnh chụp Đại gia đình, thiếu con rể thứ hai."
+        ],
+        "images": [
+          "P3_s07_image7.png"
+        ]
+      },
+      {
+        "slide_num": 8,
+        "texts": [
+          "2003. Ba Mẹ ở Sầm Sơn"
+        ],
+        "images": [
+          "P3_s08_image8.jpg"
+        ]
+      },
+      {
+        "slide_num": 9,
+        "texts": [],
+        "images": [
+          "P3_s09_image9.jpg",
+          "P3_s09_image10.jpg"
+        ]
+      },
+      {
+        "slide_num": 10,
+        "texts": [
+          "2004"
+        ],
+        "images": []
+      },
+      {
+        "slide_num": 11,
+        "texts": [
+          "27A1 Hoàng Cầu"
+        ],
+        "images": [
+          "P3_s11_image11.jpg",
+          "P3_s11_image12.png"
+        ]
+      },
+      {
+        "slide_num": 12,
+        "texts": [],
+        "images": [
+          "P3_s12_image13.png",
+          "P3_s12_image14.png",
+          "P3_s12_image15.png"
+        ]
+      },
+      {
+        "slide_num": 13,
+        "texts": [],
+        "images": [
+          "P3_s13_image16.png"
+        ]
+      },
+      {
+        "slide_num": 14,
+        "texts": [],
+        "images": [
+          "P3_s14_image17.png"
+        ]
+      },
+      {
+        "slide_num": 15,
+        "texts": [],
+        "images": [
+          "P3_s15_image18.png"
+        ]
+      },
+      {
+        "slide_num": 16,
+        "texts": [],
+        "images": [
+          "P3_s16_image19.png"
+        ]
+      },
+      {
+        "slide_num": 17,
+        "texts": [
+          "2005"
+        ],
+        "images": []
+      },
+      {
+        "slide_num": 18,
+        "texts": [],
+        "images": [
+          "P3_s18_image20.png"
+        ]
+      },
+      {
+        "slide_num": 19,
+        "texts": [],
+        "images": [
+          "P3_s19_image21.png"
+        ]
+      },
+      {
+        "slide_num": 20,
+        "texts": [
+          "Ba có cháu đích tôn"
+        ],
+        "images": [
+          "P3_s20_image22.png",
+          "P3_s20_image23.png",
+          "P3_s20_image24.png"
+        ]
+      },
+      {
+        "slide_num": 21,
+        "texts": [],
+        "images": [
+          "P3_s21_image25.png"
+        ]
+      },
+      {
+        "slide_num": 22,
+        "texts": [],
+        "images": [
+          "P3_s22_image26.png"
+        ]
+      },
+      {
+        "slide_num": 23,
+        "texts": [
+          "Big C. 31/12/2005"
+        ],
+        "images": [
+          "P3_s23_image27.png",
+          "P3_s23_image28.jpg"
+        ]
+      },
+      {
+        "slide_num": 24,
+        "texts": [
+          "2006"
+        ],
+        "images": []
+      },
+      {
+        "slide_num": 25,
+        "texts": [],
+        "images": [
+          "P3_s25_image29.png"
+        ]
+      },
+      {
+        "slide_num": 26,
+        "texts": [],
+        "images": [
+          "P3_s26_image30.jpg"
+        ]
+      },
+      {
+        "slide_num": 27,
+        "texts": [],
+        "images": [
+          "P3_s27_image31.jpg"
+        ]
+      },
+      {
+        "slide_num": 28,
+        "texts": [],
+        "images": [
+          "P3_s28_image32.jpg"
+        ]
+      },
+      {
+        "slide_num": 29,
+        "texts": [],
+        "images": [
+          "P3_s29_image33.jpg"
+        ]
+      },
+      {
+        "slide_num": 30,
+        "texts": [],
+        "images": [
+          "P3_s30_image34.jpg"
+        ]
+      },
+      {
+        "slide_num": 31,
+        "texts": [],
+        "images": [
+          "P3_s31_image35.jpg"
+        ]
+      },
+      {
+        "slide_num": 32,
+        "texts": [],
+        "images": [
+          "P3_s32_image36.jpg",
+          "P3_s32_image37.jpg",
+          "P3_s32_image38.jpg"
+        ]
+      },
+      {
+        "slide_num": 33,
+        "texts": [],
+        "images": [
+          "P3_s33_image39.jpg",
+          "P3_s33_image40.jpg"
+        ]
+      },
+      {
+        "slide_num": 34,
+        "texts": [],
+        "images": [
+          "P3_s34_image41.png"
+        ]
+      },
+      {
+        "slide_num": 35,
+        "texts": [],
+        "images": [
+          "P3_s35_image42.jpg"
+        ]
+      },
+      {
+        "slide_num": 36,
+        "texts": [],
+        "images": [
+          "P3_s36_image43.jpg"
+        ]
+      },
+      {
+        "slide_num": 37,
+        "texts": [],
+        "images": [
+          "P3_s37_image44.jpg"
+        ]
+      },
+      {
+        "slide_num": 38,
+        "texts": [
+          "2007"
+        ],
+        "images": []
+      },
+      {
+        "slide_num": 39,
+        "texts": [],
+        "images": [
+          "P3_s39_image45.jpg"
+        ]
+      },
+      {
+        "slide_num": 40,
+        "texts": [],
+        "images": [
+          "P3_s40_image46.jpg",
+          "P3_s40_image47.jpg"
+        ]
+      },
+      {
+        "slide_num": 41,
+        "texts": [],
+        "images": [
+          "P3_s41_image48.png"
+        ]
+      },
+      {
+        "slide_num": 42,
+        "texts": [],
+        "images": [
+          "P3_s42_image49.jpg"
+        ]
+      },
+      {
+        "slide_num": 43,
+        "texts": [],
+        "images": [
+          "P3_s43_image50.jpg"
+        ]
+      },
+      {
+        "slide_num": 44,
+        "texts": [],
+        "images": [
+          "P3_s44_image51.jpg"
+        ]
+      },
+      {
+        "slide_num": 45,
+        "texts": [],
+        "images": [
+          "P3_s45_image52.jpg"
+        ]
+      },
+      {
+        "slide_num": 46,
+        "texts": [],
+        "images": [
+          "P3_s46_image53.jpg"
+        ]
+      },
+      {
+        "slide_num": 47,
+        "texts": [],
+        "images": [
+          "P3_s47_image54.jpg"
+        ]
+      },
+      {
+        "slide_num": 48,
+        "texts": [
+          "Sinh nhật Bambi."
+        ],
+        "images": [
+          "P3_s48_image55.jpg",
+          "P3_s48_image56.jpg"
+        ]
+      },
+      {
+        "slide_num": 49,
+        "texts": [
+          "Sunh nhật Chick"
+        ],
+        "images": [
+          "P3_s49_image57.jpg"
+        ]
+      },
+      {
+        "slide_num": 50,
+        "texts": [
+          "Sinh nhật Cúc"
+        ],
+        "images": [
+          "P3_s50_image58.jpg",
+          "P3_s50_image59.jpg"
+        ]
+      },
+      {
+        "slide_num": 51,
+        "texts": [
+          "Đi chơi Sóc Sơn"
+        ],
+        "images": [
+          "P3_s51_image60.jpg",
+          "P3_s51_image61.jpg",
+          "P3_s51_image62.jpg"
+        ]
+      },
+      {
+        "slide_num": 52,
+        "texts": [],
+        "images": [
+          "P3_s52_image63.png"
+        ]
+      },
+      {
+        "slide_num": 53,
+        "texts": [],
+        "images": [
+          "P3_s53_image64.png"
+        ]
+      },
+      {
+        "slide_num": 54,
+        "texts": [],
+        "images": [
+          "P3_s54_image65.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P4",
+    "title": "Bên Cháu Yêu Thương – Phần 2 (2008 – 2010)",
+    "slides": [
+      {
+        "slide_num": 1,
+        "texts": [
+          "2008"
+        ],
+        "images": []
+      },
+      {
+        "slide_num": 2,
+        "texts": [],
+        "images": [
+          "P4_s02_image3.jpg"
+        ]
+      },
+      {
+        "slide_num": 3,
+        "texts": [],
+        "images": [
+          "P4_s03_image4.jpg",
+          "P4_s03_image5.jpg"
+        ]
+      },
+      {
+        "slide_num": 4,
+        "texts": [],
+        "images": [
+          "P4_s04_image6.png"
+        ]
+      },
+      {
+        "slide_num": 5,
+        "texts": [
+          "Sinh nhật Tấn"
+        ],
+        "images": [
+          "P4_s05_image7.png",
+          "P4_s05_image8.png"
+        ]
+      },
+      {
+        "slide_num": 6,
+        "texts": [],
+        "images": [
+          "P4_s06_image9.jpg"
+        ]
+      },
+      {
+        "slide_num": 7,
+        "texts": [],
+        "images": [
+          "P4_s07_image10.png",
+          "P4_s07_image11.png"
+        ]
+      },
+      {
+        "slide_num": 8,
+        "texts": [],
+        "images": [
+          "P4_s08_image12.png",
+          "P4_s08_image13.png"
+        ]
+      },
+      {
+        "slide_num": 9,
+        "texts": [],
+        "images": [
+          "P4_s09_image14.png"
+        ]
+      },
+      {
+        "slide_num": 10,
+        "texts": [],
+        "images": [
+          "P4_s10_image15.png"
+        ]
+      },
+      {
+        "slide_num": 11,
+        "texts": [],
+        "images": [
+          "P4_s11_image16.png"
+        ]
+      },
+      {
+        "slide_num": 12,
+        "texts": [],
+        "images": [
+          "P4_s12_image17.png"
+        ]
+      },
+      {
+        "slide_num": 13,
+        "texts": [
+          "Sinh nhật Miu."
+        ],
+        "images": [
+          "P4_s13_image18.png",
+          "P4_s13_image19.png"
+        ]
+      },
+      {
+        "slide_num": 14,
+        "texts": [
+          "2009"
+        ],
+        "images": []
+      },
+      {
+        "slide_num": 15,
+        "texts": [],
+        "images": [
+          "P4_s15_image20.png",
+          "P4_s15_image21.png",
+          "P4_s15_image22.png"
+        ]
+      },
+      {
+        "slide_num": 16,
+        "texts": [],
+        "images": [
+          "P4_s16_image23.png",
+          "P4_s16_image24.png",
+          "P4_s16_image25.png"
+        ]
+      },
+      {
+        "slide_num": 17,
+        "texts": [],
+        "images": [
+          "P4_s17_image26.png"
+        ]
+      },
+      {
+        "slide_num": 18,
+        "texts": [],
+        "images": [
+          "P4_s18_image27.png"
+        ]
+      },
+      {
+        "slide_num": 19,
+        "texts": [],
+        "images": [
+          "P4_s19_image28.png"
+        ]
+      },
+      {
+        "slide_num": 20,
+        "texts": [],
+        "images": [
+          "P4_s20_image29.png"
+        ]
+      },
+      {
+        "slide_num": 21,
+        "texts": [],
+        "images": [
+          "P4_s21_image30.png"
+        ]
+      },
+      {
+        "slide_num": 22,
+        "texts": [],
+        "images": [
+          "P4_s22_image31.png"
+        ]
+      },
+      {
+        "slide_num": 23,
+        "texts": [],
+        "images": [
+          "P4_s23_image32.png"
+        ]
+      },
+      {
+        "slide_num": 24,
+        "texts": [],
+        "images": [
+          "P4_s24_image33.png",
+          "P4_s24_image34.png"
+        ]
+      },
+      {
+        "slide_num": 25,
+        "texts": [],
+        "images": [
+          "P4_s25_image35.png"
+        ]
+      },
+      {
+        "slide_num": 26,
+        "texts": [],
+        "images": [
+          "P4_s26_image36.png"
+        ]
+      },
+      {
+        "slide_num": 27,
+        "texts": [
+          "Đi chơi 1/6 ở Công viên Thủ Lệ"
+        ],
+        "images": [
+          "P4_s27_image37.png"
+        ]
+      },
+      {
+        "slide_num": 28,
+        "texts": [],
+        "images": [
+          "P4_s28_image38.png",
+          "P4_s28_image39.png"
+        ]
+      },
+      {
+        "slide_num": 29,
+        "texts": [],
+        "images": [
+          "P4_s29_image40.png"
+        ]
+      },
+      {
+        "slide_num": 30,
+        "texts": [],
+        "images": [
+          "P4_s30_image41.png"
+        ]
+      },
+      {
+        "slide_num": 31,
+        "texts": [],
+        "images": [
+          "P4_s31_image42.png",
+          "P4_s31_image43.png",
+          "P4_s31_image44.png"
+        ]
+      },
+      {
+        "slide_num": 32,
+        "texts": [],
+        "images": [
+          "P4_s32_image45.png"
+        ]
+      },
+      {
+        "slide_num": 33,
+        "texts": [],
+        "images": [
+          "P4_s33_image46.png",
+          "P4_s33_image47.png"
+        ]
+      },
+      {
+        "slide_num": 34,
+        "texts": [],
+        "images": [
+          "P4_s34_image48.png",
+          "P4_s34_image49.png",
+          "P4_s34_image50.png"
+        ]
+      },
+      {
+        "slide_num": 35,
+        "texts": [],
+        "images": [
+          "P4_s35_image50.png",
+          "P4_s35_image48.png"
+        ]
+      },
+      {
+        "slide_num": 36,
+        "texts": [],
+        "images": [
+          "P4_s36_image51.png"
+        ]
+      },
+      {
+        "slide_num": 37,
+        "texts": [],
+        "images": [
+          "P4_s37_image52.png"
+        ]
+      },
+      {
+        "slide_num": 38,
+        "texts": [],
+        "images": [
+          "P4_s38_image53.png",
+          "P4_s38_image54.png"
+        ]
+      },
+      {
+        "slide_num": 39,
+        "texts": [
+          "Sinh nhaajt6 Ngan"
+        ],
+        "images": [
+          "P4_s39_image55.png"
+        ]
+      },
+      {
+        "slide_num": 40,
+        "texts": [
+          "Đi chơi Cọ Xanh. Ngày 2/9"
+        ],
+        "images": [
+          "P4_s40_image56.png",
+          "P4_s40_image57.png"
+        ]
+      },
+      {
+        "slide_num": 41,
+        "texts": [],
+        "images": [
+          "P4_s41_image58.png",
+          "P4_s41_image59.png"
+        ]
+      },
+      {
+        "slide_num": 42,
+        "texts": [],
+        "images": [
+          "P4_s42_image60.png"
+        ]
+      },
+      {
+        "slide_num": 43,
+        "texts": [],
+        "images": [
+          "P4_s43_image61.png",
+          "P4_s43_image62.png"
+        ]
+      },
+      {
+        "slide_num": 44,
+        "texts": [
+          "2010"
+        ],
+        "images": []
+      },
+      {
+        "slide_num": 45,
+        "texts": [],
+        "images": [
+          "P4_s45_image63.png"
+        ]
+      },
+      {
+        "slide_num": 46,
+        "texts": [],
+        "images": [
+          "P4_s46_image64.png"
+        ]
+      },
+      {
+        "slide_num": 47,
+        "texts": [],
+        "images": [
+          "P4_s47_image65.png"
+        ]
+      },
+      {
+        "slide_num": 48,
+        "texts": [],
+        "images": [
+          "P4_s48_image66.png"
+        ]
+      },
+      {
+        "slide_num": 49,
+        "texts": [],
+        "images": [
+          "P4_s49_image67.png"
+        ]
+      },
+      {
+        "slide_num": 50,
+        "texts": [],
+        "images": [
+          "P4_s50_image68.png",
+          "P4_s50_image69.png"
+        ]
+      },
+      {
+        "slide_num": 51,
+        "texts": [],
+        "images": [
+          "P4_s51_image70.png"
+        ]
+      },
+      {
+        "slide_num": 52,
+        "texts": [],
+        "images": [
+          "P4_s52_image71.png",
+          "P4_s52_image72.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P5",
+    "title": "Với Họ Hàng & Những Ngôi Nhà Kỷ Niệm (1966 – 2020)",
+    "slides": [
+      {
+        "slide_num": 1,
+        "texts": [
+          "Với họ hàng"
+        ],
+        "images": [
+          "P5_s01_image2.png"
+        ]
+      },
+      {
+        "slide_num": 2,
+        "texts": [],
+        "images": [
+          "P5_s02_image3.png",
+          "P5_s02_image4.png"
+        ]
+      },
+      {
+        "slide_num": 3,
+        "texts": [],
+        "images": [
+          "P5_s03_image5.png"
+        ]
+      },
+      {
+        "slide_num": 4,
+        "texts": [],
+        "images": [
+          "P5_s04_image6.png"
+        ]
+      },
+      {
+        "slide_num": 5,
+        "texts": [],
+        "images": [
+          "P5_s05_image7.png"
+        ]
+      },
+      {
+        "slide_num": 6,
+        "texts": [],
+        "images": [
+          "P5_s06_image8.png"
+        ]
+      },
+      {
+        "slide_num": 7,
+        "texts": [],
+        "images": [
+          "P5_s07_image9.jpg",
+          "P5_s07_image10.jpg"
+        ]
+      },
+      {
+        "slide_num": 8,
+        "texts": [
+          "Thăm nhà Tuấn Huyền 2010"
+        ],
+        "images": [
+          "P5_s08_image11.png"
+        ]
+      },
+      {
+        "slide_num": 9,
+        "texts": [
+          "nhà"
+        ],
+        "images": [
+          "P5_s09_image12.png"
+        ]
+      },
+      {
+        "slide_num": 10,
+        "texts": [
+          "Nhà bị bom mỹ năm 1966",
+          "Vào hồi 13h15 ngày 13 tháng 12 năm 1966, bom Mỹ đã dội xuống  phố Nguyễn Thiệp, đoạn phố chỉ dài chừng 50m, làm đổ hơn hai chục nóc nhà, trong đó có nhà của chúng tôi số 23A và nhà của Ông Bà ngoại số 36-38."
+        ],
+        "images": [
+          "P5_s10_image13.png"
+        ]
+      },
+      {
+        "slide_num": 11,
+        "texts": [
+          "Thêm tấm ảnh nữa …",
+          "Lang thang vào tìm các trang mạng nói về cuộc chiến tranh phá hoại miền Bắc những năm 60, tình cờ tìm được tấm ảnh nảy ghi rõ hơn nhà 23A của gia đình bị đổ. Đó là ngôi nhà phía sau cột đèn, có cái bút to đùng chắn ngang cửa, bên cạnh là nhà 25, rồi cổng Chùa Bà Móc, số 27 (xưa vẫn quen miệng gọi là Đền Bà Móc)."
+        ],
+        "images": [
+          "P5_s11_image14.png"
+        ]
+      },
+      {
+        "slide_num": 12,
+        "texts": [
+          "Thời gian đó Mẹ và 3 chúng tôi đang ở nơi sơ tán là quê ngoại tại xóm Phú Cường (tên cũ là xóm Đanh), xã Xuân Phương, Từ Liêm). Ba vẫn làm việc ở Xí nghiệp Đại tu ô tô số 10 (khu gần Ngã tư sở). Buổi trưa Ba thường về nhà ăn cơm, nghỉ trưa rồi trở lại làm việc vào lúc 2 giờ chiều. Theo lời Ba kể lại, thường thì khoảng 1 rưỡi chiều ba mới rời nhà đi làm, nhưng hôm đó Ba đi sớm định đến quầy rau ở phố Quán Thánh mua ít bắp cải về ăn cho đỡ xót ruột vì mấy bữa rôi đều ăn dưa, hết nấu lại xào, do mẹ chuẩn bị cho Ba (nơi chúng tôi sơ tán cách thành phố khoảng hơn chục cây số, nên Chủ nhật hàng tuần Ba thường  về thăm chúng tôi và mẹ luôn chuẩn bị cho Ba ít đồ ăn mang ra Hà Nôi). Khi đi đến đầu vườn hoa Hàng Đậu Ba nghe có tiếng còi báo động hú vang. Ba dừng lại ở chỗ có hầm tăng-xê. Được vài phút thì nghe tiếng nổ rung chuyển trời đất. Nhìn về phía sau lưng, phía cầu Long Biên cũng là phía nhà chúng tôi thì thấy một cột khói bụi khổng lồ bốc lên. Lúc đó là khoảng 13h15 ngày 13/12/1966. Ba linh cảm thấy có điều chẳng lành nên quay trở lại nhà thì thấy dãy nhà hai bên đường phố Nguyễn Thiếp (đoạn giữa) bị đổ tan hoang. Nhà chúng tôi (số 23A) và nhà Ông Bà ngoại (số 36-38) bị đổ sập hết mái Chiếc giường mà ba mới nằm nghỉ ít phút trước bị thanh dầm bê tông to, nặng hàng tấn đè ngang. Lạy Trời, Ba thoát chết chỉ trong gang tấc."
+        ],
+        "images": []
+      },
+      {
+        "slide_num": 13,
+        "texts": [
+          "Vườn hoa Hàng Đậu, thời chiến tranh phá hoại nơi đây có dãy hầm trú ẩn. Ngày 13/12/1966, Ba đã trú ẩn ở nơi này trong khi nhà bị bom Mỹ làm đổ tan tành."
+        ],
+        "images": [
+          "P5_s13_image15.png"
+        ]
+      },
+      {
+        "slide_num": 14,
+        "texts": [
+          "Xây lại nhà 23A nguyễn thiệp",
+          "Năm 1974 (?), Ba Mẹ làm lại nhà23A Nguyễn Thiệp, nhưng chỉ 1 tầng, đổ mái bằng phòng trong.",
+          "Năm 1977 (?), Ba Mẹ nâng nhà lên thêm một tầng nữa, thành nhà 2 tầng có hình dạng như ảnh bên. Những năm 1991, Ba Mẹ đã bán căn nhà này và chuyển chỗ ở."
+        ],
+        "images": [
+          "P5_s14_image16.jpg"
+        ]
+      },
+      {
+        "slide_num": 15,
+        "texts": [
+          "1991chuyển nhà lần 1+2",
+          "Năm 1991, Ba Mẹ bán căn nhà số 23 A Nguyễn Thiệp, mua 02 căn nhà, một ở phố Linh Lang (nay là 112 Linh Lang) và một ở B3 phường Cống vị.",
+          "Lúc đầu cả nhà cuyển về sống ở căn nhà chưa hoàn thiện 112 Linh Lang, sau đó chuyển vè nhà B3."
+        ],
+        "images": [
+          "P5_s15_image17.png",
+          "P5_s15_image18.png"
+        ]
+      },
+      {
+        "slide_num": 16,
+        "texts": [
+          "Cây xoài",
+          "Năm 1997, Ba mẹ chuyển nhà về 16 Võ Văn Dũng.",
+          "Hai cây xoài Ba trồng trước của nhà A8 nay là 16 Võ Văn Dũng năm 1997-1998."
+        ],
+        "images": [
+          "P5_s16_image19.png",
+          "P5_s16_image21.png"
+        ]
+      },
+      {
+        "slide_num": 17,
+        "texts": [
+          "Hiện tại",
+          "… Nay hai cây này đã cao bằng tòa nhà 4 tầng. Ảnh chụp năm 2019. Nhà 16 Võ Văn Dũng đã cho VinMart thuê làm cửa hàng tiện ích."
+        ],
+        "images": [
+          "P5_s16_image20.png"
+        ]
+      },
+      {
+        "slide_num": 18,
+        "texts": [],
+        "images": [
+          "P5_s17_image22.jpg"
+        ]
+      },
+      {
+        "slide_num": 19,
+        "texts": [
+          "Hà Nôi, 2020"
+        ],
+        "images": [
+          "P5_s18_image23.png"
+        ]
+      }
+    ]
+  }
+];
