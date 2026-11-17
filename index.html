@@ -15,6 +15,11 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<script>
+  if (sessionStorage.getItem('dhv_auth') !== 'ok') {
+    window.location.replace('password.html');
+  }
+</script>
 
     <!-- Hero Section -->
     <header id="hero" class="hero">
